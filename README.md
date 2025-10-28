@@ -35,8 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerkyZZ999&repo=MemorizedMCP&theme=dark&hide_border=true" alt="MemorizedMCP"/>
 </a>
 
-<a href="https://github.com/PerkyZZ999/SeelenUI-SystemMonitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerkyZZ999&repo=SeelenUI-SystemMonitor&theme=dark&hide_border=true" alt="SeelenUI-SystemMonitor"/>
+<a href="https://github.com/PerkyZZ999/Consilium">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerkyZZ999&repo=Consilium&theme=dark&hide_border=true" alt="Consilium"/>
 </a>
 
 ---
