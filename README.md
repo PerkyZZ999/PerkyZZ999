@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>Owner & Developer at <a href="https://creativewebstudio.ca" target="_blank">CreativeWebStudio.ca</a> | Based in Quebec, Canada</b>
+  <b>Owner & Developer at <a href="https://creativewebconcept.ca" target="_blank">CreativeWebConcept.ca</a> | Based in Quebec, Canada</b>
 </p>
 
 <p align="center" style="color: #b0b0b0;">
@@ -20,7 +20,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Owner & Developer at [CreativeWebStudio.ca](https://creativewebstudio.ca)
+- 💼 Owner & Developer at [CreativeWebConcept.ca](https://creativewebconcept.ca)
 - 🖥️ Proficient in **Web Development** (Frontend/Backend)
 - 💻 Experienced with **C#** & **Rust** for desktop apps
 - 📱 Occasional **Android Studio** dev (Kotlin & XML)
@@ -58,7 +58,7 @@
   <a href="https://instagram.com/creativewebcharles" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://creativewebstudio.ca" target="_blank">
+  <a href="https://creativewebconcept.ca" target="_blank">
     <img src="https://img.shields.io/badge/Website-22272e?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
