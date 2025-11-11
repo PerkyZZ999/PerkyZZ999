@@ -32,7 +32,7 @@
 ### 🚀 Featured Projects
 
 <a href="https://github.com/PerkyZZ999/MemorizedMCP-TS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerkyZZ999&repo=MemorizedMCP&theme=dark&hide_border=true" alt="MemorizedMCP"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerkyZZ999&repo=MemorizedMCP-TS&theme=dark&hide_border=true" alt="MemorizedMCP-TS"/>
 </a>
 
 <a href="https://github.com/PerkyZZ999/Consilium">
