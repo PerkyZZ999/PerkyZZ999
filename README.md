@@ -24,7 +24,7 @@
 - 🖥️ Proficient in **Web Development** (Frontend/Backend)
 - 💻 Experienced with **C#** & **Rust** for desktop apps
 - 📱 Occasional **Android Studio** dev (Kotlin & XML)
-- 🌟 Favorite Project: [MemorizedMCP](https://github.com/PerkyZZ999/MemorizedMCP)
+- 🌟 Favorite Project: [EmVB](https://github.com/PerkyZZ999/EmVB)
 - 🏡 Quebec, Canada
 
 ---
